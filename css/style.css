@@ -1,0 +1,29 @@
+body{
+    font: 20px Fantasy;
+}
+
+.navbar {
+    background-color: #E2A9F3;
+}
+
+.quem-somos{
+    background-color: #A9A9F5;
+}
+
+.margin{
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.parceiros{
+    background-color: #8181F7;
+}
+
+.servicos{
+    background-color: #2E64FE;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}
